@@ -32,17 +32,27 @@ Camera: Barcode scanning for ingredients.
 ### 4. Database Schema (Implementation in progress)
 
 Users Table: Manages user details for personalization.
+
 Ingredients Table: Stores ingredient details entered by users.
+
 Recipes Table: Saves fetched or user-created recipes.
+
 Recipe Ingredients Table: Links recipes and ingredients in a many-to-many relationship.
+
 Offline Cache Table: Caches recipes and interactions for offline functionality.
+
 Analytics Table: Tracks user activity using Firebase Analytics.
 
-Database Relationship Diagram
+#### Database Relationship Diagram
+
 Users → 1-to-many → Ingredients
+
 Users → 1-to-many → Recipes
+
 Recipes → many-to-many → Ingredients (via Recipe Ingredients)
+
 Users → 1-to-many → Offline Cache
+
 Users → 1-to-many → Analytics
 
 ## Demo
