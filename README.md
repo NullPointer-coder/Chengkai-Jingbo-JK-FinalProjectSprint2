@@ -21,7 +21,9 @@ Language: [Programming language used, e.g., Kotlin].
 
 Spoonacular API: Fetches recipe recommendations based on inputted ingredients and preferences. (Implementation in progress)
 
-Google ML Kit: Scans barcodes for ingredient details.
+Google ML Kit: Scans barcodes for ingredient code numbers.
+
+Open Food Facts API： Get ingredient details form code numbers. (Implementation in progress)
 
 ### 3. On-Device Sensors
 
