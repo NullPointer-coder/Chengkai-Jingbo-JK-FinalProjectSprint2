@@ -79,5 +79,5 @@ Integration of Spoonacular API for live recommendations.
 
 ## Chengkai-Jingbo-JK-FinalProject: Fridgify
 
-[Smart Recipe Recommender](https://github.com/NullPointer-coder/Chengkai-Jingbo-JK-FinalProject.git)
+[Smart Recipe Recommender - Fridgify](https://github.com/NullPointer-coder/Chengkai-Jingbo-JK-FinalProject.git)
 
